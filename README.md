@@ -4,7 +4,7 @@
 
 This project utilizes **SQL** and **POWER BI** to analyze a dataset of  bank loan data for the year 2021, generating a Power BI visualization report that consists of three dashboards: **Summary**, **Overview**, and **Details**.
 
-🔗 [➥ Live Demo](your-live-demo-link-here)
+🔗 [➥ Live Demo](https://app.powerbi.com/view?r=eyJrIjoiMmQzMTljYTUtZTRmZi00MzNlLWI1NjAtYTIxZGMyZWJjYmE5IiwidCI6IjNjYWNjYzA2LTY3ZmEtNDdjZS05YzVhLTIyNDM2OWUxNzZlMyJ9>)
 
 ---
 
