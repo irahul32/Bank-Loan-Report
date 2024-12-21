@@ -1,8 +1,9 @@
-# Bank Loan Data Analysis
+#                                                      Bank Loan Data Analysis
 
-This project utilizes **SQL** and **POWER BI** to analyze a dataset of U.S. bank loan data for the year 2021, generating a Power BI visualization report that consists of three dashboards: **Summary**, **Overview**, and **Details**.
+                This project utilizes **SQL** and **POWER BI** to analyze a dataset of U.S. bank loan data for the year 2021, 
+           generating a Power BI visualization report that consists of three dashboards: **Summary**, **Overview**, and **Details**.
 
-🔗 [➥ Live Demo](https://app.powerbi.com/view?r=eyJrIjoiMmQzMTljYTUtZTRmZi00MzNlLWI1NjAtYTIxZGMyZWJjYmE5IiwidCI6IjNjYWNjYzA2LTY3ZmEtNDdjZS05YzVhLTIyNDM2OWUxNzZlMyJ9)
+🔗                                             [➥ Live Demo](https://app.powerbi.com/view?r=eyJrIjoiMmQzMTljYTUtZTRmZi00MzNlLWI1NjAtYTIxZGMyZWJjYmE5IiwidCI6IjNjYWNjYzA2LTY3ZmEtNDdjZS05YzVhLTIyNDM2OWUxNzZlMyJ9)
 
 ## Dashboard Demo Screenshots
 
