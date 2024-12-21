@@ -15,7 +15,7 @@ This project utilizes **SQL** and **POWER BI** to analyze a dataset of U.S. bank
 
 
 ### Details Dashboard
-!(https://github.com/user-attachments/assets/def884ae-5b57-4058-80ed-b7d86fcf1206)
+![details](https://github.com/user-attachments/assets/def884ae-5b57-4058-80ed-b7d86fcf1206)
 
 
 ---
