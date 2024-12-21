@@ -1,23 +1,30 @@
-#                                                      Bank Loan Data Analysis
+<div align="center">
 
-                This project utilizes **SQL** and **POWER BI** to analyze a dataset of U.S. bank loan data for the year 2021, 
-           generating a Power BI visualization report that consists of three dashboards: **Summary**, **Overview**, and **Details**.
+# Bank Loan Data Analysis
 
-🔗                                             [➥ Live Demo](https://app.powerbi.com/view?r=eyJrIjoiMmQzMTljYTUtZTRmZi00MzNlLWI1NjAtYTIxZGMyZWJjYmE5IiwidCI6IjNjYWNjYzA2LTY3ZmEtNDdjZS05YzVhLTIyNDM2OWUxNzZlMyJ9)
+This project utilizes **SQL** and **Tableau** to analyze a dataset of U.S. bank loan data for the year 2021, generating a Tableau visualization report that consists of three dashboards: **Summary**, **Overview**, and **Details**.
 
-## Dashboard Demo Screenshots
-
-### Summary Dashboard
-![summary](https://github.com/user-attachments/assets/839b1d55-0920-43bd-bfd6-bcd9f90f0daf)
-
-
-### Overview Dashboard
-![overview](https://github.com/user-attachments/assets/c2786f48-d212-4f44-84ab-4776ae0d9c33)
-
-
-### Details Dashboard
-![details](https://github.com/user-attachments/assets/def884ae-5b57-4058-80ed-b7d86fcf1206)
-
+🔗 [➥ Live Demo](your-live-demo-link-here)
 
 ---
 
+### Dashboard Demo Screenshots
+
+<table>
+    <tr>
+        <td><img src="link-to-summary-image" alt="Summary Dashboard" width="300"/></td>
+        <td><img src="link-to-overview-image" alt="Overview Dashboard" width="300"/></td>
+        <td><img src="link-to-details-image" alt="Details Dashboard" width="300"/></td>
+    </tr>
+    <tr>
+        <td align="center"><b>Summary Dashboard</b></td>
+        <td align="center"><b>Overview Dashboard</b></td>
+        <td align="center"><b>Details Dashboard</b></td>
+    </tr>
+</table>
+
+---
+
+When you enter my Tableau visualization project, if your screen cannot fully display all the content of the dashboard, please use your browser's zoom function to view the entire dashboard.
+
+</div>
