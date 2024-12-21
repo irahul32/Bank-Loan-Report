@@ -12,9 +12,9 @@ This project utilizes **SQL** and **POWER BI** to analyze a dataset of  bank loa
 
 <table>
     <tr>
-        <td><img src="" alt="Summary Dashboard" width="300"/></td>
-        <td><img src="" alt="Overview Dashboard" width="300"/></td>
-        <td><img src="" alt="Details Dashboard" width="300"/></td>
+        <td><img src="https://github.com/irahul32/Bank-Loan-Report/blob/main/Sample%20screenshots/summary.png" alt="Summary Dashboard" width="300"/></td>
+        <td><img src="https://github.com/irahul32/Bank-Loan-Report/blob/main/Sample%20screenshots/overview.png" alt="Overview Dashboard" width="300"/></td>
+        <td><img src="https://github.com/irahul32/Bank-Loan-Report/blob/main/Sample%20screenshots/details.png" alt="Details Dashboard" width="300"/></td>
     </tr>
     <tr>
         <td align="center"><b>Summary Dashboard</b></td>
