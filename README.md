@@ -27,6 +27,14 @@ This project utilizes **SQL** and **POWER BI** to analyze a dataset of  bank loa
 
 </div>
 
+# Tech Stack & Process involved in building the project
+**Step 1**: Collect and review the dataset, identifying the project goals and the relevant **Key Performance Indicators (KPIs)** to track.
+**Step 2** (Exploration Process): Load the dataset into the **MySQL Database** for storage and processing.
+**Step 3** (Transformation Process): Analyze the data, clean it, and extract the required metrics based on the identified KPIs.
+**Step 4**: Handle null values, missing entries, and errors using **MySQL or Excel**, ensuring the data aligns with the project requirements.
+**Step 5** (Loading Process): Load the cleaned and transformed data into **Power BI** for visualization and reporting.
+**Step 6**: Design and create an interactive dashboard in **Power BI**, focusing on effectively representing the KPIs and meeting project requirements.
+
 # Explanation of Terms Used in the Report
 **MTD (Month-to-Date):** Refers to the cumulative total for the current month up to the current date.
 
